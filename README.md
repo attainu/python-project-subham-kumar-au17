@@ -22,13 +22,16 @@
 
     - Rules are simple as you all know there is no changes in that.
 
-    The game will have a six sided dice numbered from 1 to 6 and will always give a random number on rolling it.
+    The game will have a six sided dice numbered from 1 to 6 and will 
+    always give a random number on rolling it.
 
     Each player has a piece which is initially kept outside the board (i.e., at position 0)
 
     Each player rolls the dice when their turn comes.
 
-    Based on the dice value, the player moves their piece forward that number of cells. Ex: If the dice value is 5 and the piece is at position 21, the player will put their piece at position 26 now (21+5)
+    Based on the dice value, the player moves their piece forward that number of cells. 
+    Ex: If the dice value is 5 and the piece is at position 21, the player will put 
+        their piece at position 26 now (21+5)
 
     A player wins if it exactly reaches the position 100 and the game ends there.
 
