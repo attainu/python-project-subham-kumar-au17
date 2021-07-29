@@ -1,7 +1,8 @@
 # Snake & Ladder
 
 ## Project Summary
-    A programe which will simulate dice rolling and movement of pawn by dice call and help or hindered by ladder and snake respectively. 
+    A programe which will simulate dice rolling and movement of pawn 
+    by dice call and help or hindered by ladder and snake respectively. 
     Max number of players are 4 and min 2.
 
 
